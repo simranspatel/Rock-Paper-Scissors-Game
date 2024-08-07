@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Game
 
-  <p> To go to my website, <a href="https://simranspatel.github.io/Amazon-Clone/">click here</a>.</p>
+  <p> To go to my website, <a href="https://simranspatel.github.io/Rock-Paper-Scissors-Game/">click here</a>.</p>
 <h4>Sneak peek at the webs</h4>
 <img src="https://i.imgur.com/riydjRn.png">
 <img src="https://i.imgur.com/dEKBs2v.png" >
